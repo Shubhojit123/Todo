@@ -84,7 +84,7 @@ ul li::before{
     position: absolute;
     height: 15px;
     width: 15px;
-    background-image: url(./images/circleT.png);
+    background-image: url(circleT.png);
     cursor: pointer;
     background-size:cover;
     background-position: center;
@@ -97,7 +97,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(./images/checked.png);
+    background-image: url(checked.png);
 }
 
 span{
